@@ -4,5 +4,5 @@ This Software provides following Effort Estimation Techniques:
 * Slim
 * Functional Point
 * Cocomo 
-* Cocomo II (Application Composition method),
+* Cocomo II (Application Composition method).
 This Software is very useful in Software Project Management.
